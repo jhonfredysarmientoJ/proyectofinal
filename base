@@ -1,0 +1,5 @@
+activity_main.xml
+<EditText android:id="@+id/editTextName" ... />
+<EditText android:id="@+id/editTextContactNumber" ... />
+<EditText android:id="@+id/editTextEmail" ... />
+<Button android:id="@+id/buttonSubmit" ... />
