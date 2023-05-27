@@ -1,0 +1,4 @@
+EditText editTextName = findViewById(R.id.editTextName);
+EditText editTextContactNumber = findViewById(R.id.editTextContactNumber);
+EditText editTextEmail = findViewById(R.id.editTextEmail);
+Button buttonSubmit = findViewById(R.id.buttonSubmit);
