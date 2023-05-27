@@ -1,0 +1,6 @@
+buttonSubmit.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View v) {
+        // Acciones a realizar cuando se hace clic en el botón de envío
+    }
+});
