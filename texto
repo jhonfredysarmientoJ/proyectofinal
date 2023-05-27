@@ -1,0 +1,13 @@
+String name = editTextName.getText().toString();
+String contactNumber = editTextContactNumber.getText().toString();
+String email = editTextEmail.getText().toString();
+
+// Realiza las validaciones necesarias
+if (name.isEmpty()) {
+    editTextName.setError("Ingrese un nombre válido");
+    return;
+}
+// Valida los otros campos de manera similar
+
+// Si los datos son válidos, puedes almacenarlos en una base de datos local o enviarlos a un servidor remoto utilizando una solicitud HTTP
+// Muestra un mensaje de confirmación al usuario después de enviar los datos
